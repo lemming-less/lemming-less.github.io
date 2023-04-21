@@ -18,13 +18,13 @@ yg 院某f姓老师，你是真的狗，你妈的我在这里还不敢指名道�
 在dan一遍f某，老子真不想写
 # 1.2.0
 ## 2023/4/21
-往个人网站靠。
-影像换了谷歌，本地能加载，发布后就不行了，不想重新push了，先搁着。
+往个人网站靠。  
+影像换了谷歌，本地能加载，发布后就不行了，不想重新push了，先搁着。  
 对齐没做好，这玩意儿真搞心态
 ## 注意事项
 无
 ## slz
 不想写总体设计作业tnnd
 ## 参考（不全）
-https://blog.csdn.net/ximenxiafeng/article/details/108676775
+https://blog.csdn.net/ximenxiafeng/article/details/108676775  
 https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Animations/Using_CSS_animations
